@@ -1,0 +1,36 @@
+.Menu
+	display: flex
+	flex-wrap: wrap
+	flex-direction: row
+	padding: 13px 0 16px
+	font-size: 110%
+	font-family: Roboto Medium,sans-serif
+	color: #40403f
+	line-height: 1.5
+.MenuPopup
+	display: none	
+
+@media screen and (max-width: 500px)
+	.Menu
+		display: none !important
+	
+	.Popup_menu_header_top
+		height: 100%
+		width: 250px
+		top: 0px
+		right: 1px	
+		
+		.MenuPopup
+			display: flex
+			flex-wrap: nowrap
+			flex-direction: column
+			padding: 13px 0px 16px 0px
+			font-size: 110%
+			font-family: Roboto Medium,sans-serif
+			color: #40403f
+			
+			li
+				line-height: 2
+				span:hover, &:active
+					color: #ff7301
+					text-decoration: underline

@@ -1,0 +1,38 @@
+.Header
+	.top
+		background-color: #ff7301
+		padding: 5px 10px 5px 10px
+		display: block
+		.content
+			font-size: 120% //24.96px
+			font-family: 'Roboto Medium',sans-serif,Arial,Tahoma,Verdana
+			color: #ffffff
+			line-height: 1.7
+			margin: 10px 0px
+			.slogan
+				font-size: 140%
+				line-height: 1.4
+			.phone
+				margin-top: 10px
+				display: flex
+				flex-direction: row
+				flex-wrap: wrap
+				line-height: 1.5
+			
+			.text_below
+				margin-top: 10px
+				line-height: 1.5
+				
+
+@media screen and (max-width: 500px)
+	.top
+		display: flex !important
+		flex-wrap: nowrap
+		justify-content: space-between
+
+@media screen and (max-width: 470px)
+	
+	.slogan
+		font-size: 120%	!important
+		text-align: center
+

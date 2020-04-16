@@ -1,0 +1,33 @@
+/*import Header from './Header/Header';
+import Uslugi from './Uslugi/Uslugi';*/
+
+class App extends Component {
+	
+	/*state = {
+		uslugi: [
+			{name: 'Фундамент'},
+			{name: 'Сварка'},
+			{name: 'Шлагбаум'},
+			{name: 'Ворота'},
+			{name: 'Видеонаблюдение'},
+			{name: 'Водоснабжение'},
+		],
+		pageTitle:'stroitel'
+	}*/
+	
+	render(){	
+		//const uslugi= this.state.uslugi
+		return (
+			/*<div className="App">
+			  <h1>{this.state.pageTitle}</h1>
+			  <Header />
+			  <Uslugi name={uslugi[0].name} />
+			  <Uslugi name={uslugi[1].name} />
+			  <Uslugi name={uslugi[2].name} />
+			  <Uslugi name={uslugi[3].name} />
+			  <Uslugi name={uslugi[4].name} />
+			  <Uslugi name={uslugi[5].name} />
+			</div>*/
+		);//return
+	}//render
+}//class

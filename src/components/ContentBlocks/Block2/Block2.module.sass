@@ -1,0 +1,30 @@
+.Block2
+	.flex_wrapper
+		display: flex
+		flex-direction: row
+		flex-wrap: wrap
+		justify-content: space-between
+
+		.left_side
+			min-width: 185px
+			max-width: 480px
+		.right_side
+
+			align-self: flex-end
+			img
+				max-width: 340px
+				height: auto
+				margin-left: 10px
+
+		img
+			border-radius: 3px
+			margin-top: 10px		
+
+@media screen and (max-width: 927px)
+	.right_side
+		.flex_wrapper
+			display: flex
+			flex-direction: column
+		img
+			width: 273px
+			margin-left: 0px

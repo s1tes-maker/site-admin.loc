@@ -1,0 +1,619 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ani",
+				"animate"
+			],
+			[
+				"r",
+				"ReactWOW"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"C",
+				"CreateImgPath"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"m",
+				"menuView"
+			],
+			[
+				"Gamburger",
+				"gamburger"
+			],
+			[
+				"B",
+				"BlockMain"
+			],
+			[
+				"p",
+				"pathEnd"
+			],
+			[
+				"i",
+				"imgPath"
+			],
+			[
+				"u",
+				"uslugi_name_list"
+			],
+			[
+				"L",
+				"Layout"
+			],
+			[
+				"Me",
+				"MenuItem"
+			],
+			[
+				"ma",
+				"masUslugi"
+			],
+			[
+				"Op",
+				"Open_close_popup"
+			],
+			[
+				"co",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/ContentBlocks/Services/ServiceItem/ServiceItem.js",
+			"settings":
+			{
+				"buffer_size": 936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ContentBlocks/Services/Services.js",
+			"settings":
+			{
+				"buffer_size": 597,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ContentBlocks/Block1/Block1.js",
+			"settings":
+			{
+				"buffer_size": 1023,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ContentBlocks/BlockEnd1/BlockEnd1.js",
+			"settings":
+			{
+				"buffer_size": 764,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ContentBlocks/Block2/Block2.js",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ContentBlocks/Services/services_data.js",
+			"settings":
+			{
+				"buffer_size": 3779,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/domains/stroitel.loc/src",
+		"/C/OSPanel/domains/stroitel.loc/src/components",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block1",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block2",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/BlockEnd1",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Header",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/MainContent"
+	],
+	"file_history":
+	[
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/Images/ImageItem/ImageItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/Images/Images.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/Images/ImageItem/ImageItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block1/Block1.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block2/Block2.js",
+		"/C/OSPanel/domains/stroitel.loc/src/App.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/Images/Images.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/Services.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/ServiceItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/index.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/ServiceItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/Services.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/services_data.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/make_data.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/BlockEnd1/BlockEnd1.js",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Header/Header.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Header/Header.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/FadePopupWindow.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/PopupWindow/PopupWindow.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/MenuItem/MenuItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/Gamburger/Gamburger.js",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Navigation/Navigation.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/PopupWindow/CloseIc/CloseIc.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/Menu.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/PopupWindow/CloseIc/CloseIc.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/Menu.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Services/ServiceItem/Images/create_img_paths.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/PopupWindow/PopupWindow.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/Gamburger/Gamburger.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Menu/MenuItem/MenuItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/FadePopupWindow/FadePopupWindow.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/PopupWindow.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/PopupWindow.js",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Navigation/Navigation.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/Content/Content.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/Content/Content.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/OpenLink/OpenLink.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/MainContent/MainContent.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block3/Block3.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/BlockEnd1/BlockEnd1.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/index.css",
+		"/C/OSPanel/domains/stroitel.loc/src/components/MainContent/Block/Block.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Layout.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block1/Block1.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block2/Block2.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/MainContent/MainContent.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/MainContent/Block/Block.js",
+		"/C/OSPanel/domains/stroitel.loc/src/data/create_img_path.js",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Layout.js",
+		"/C/OSPanel/domains/stroitel.loc/src/data/services_name.js",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Uslugi/Uslugi.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Usluga/Usluga.js",
+		"/C/OSPanel/domains/stroitel.loc/src/data/uslugi_name.js",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Uslugi/uslugi_data.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/Block3/Block3.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/ChapterBlock1/ChapterBlock1.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/ChapterBlock3/ChapterBlock3.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ContentBlocks/ChapterBlock2/ChapterBlock2.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/BlockMainContent/BlockMainContent.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock1/ChapterBlock1.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock2/ChapterBlock2.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock1/ChapterBlock1.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock3/ChapterBlock3.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/BlockMainContent/BlockMainContent.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Chapter.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Chapter.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock3/ChapterBlock3.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/ChapterBlock2/ChapterBlock2.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/hoc/Layout/Chapters/Chapters.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common2/Common2.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common2/Common2.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/PopupWindow/OpenLink/OpenLink.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Header/Navigation/Navigation.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Usluga/ImagesUslugi/ImageItem/ImageItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Header/Header.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common3/Common3.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common3/Common3.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Header/Header.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Usluga/ImagesUslugi/ImagesUslugi.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common1/Common1.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Common1/Common1.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Usluga/Usluga.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Chapter/Uslugi/Uslugi.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/Chapter/Usluga/Usluga.js",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Chapter/Chapter.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Chapter/Uslugi/Uslugi.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/UslugaChapter.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ChapterFirst/ChapterFirst.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/ChapterFirst/ChapterFirst.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/ImagesUslugi/ImageItem/ImageItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/Header/Header.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/UslugaChapter.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/ImagesUslugi/ImagesUslugi.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/ImagesUslugi/ImagesUslugi.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/containers/Chapter/Chapter.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/ImagesUslugi/ImageItem/ImageItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/App.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/ImagesUslugi/ImagesUslugi.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/Images/ImageItem/ImageItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/Images/ImageItem/ImageItem.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/AttentionTextItem/AttentionTextItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/AttentionTextItem/AttentionTextItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/Draw_attention_item/DrawAttentionItem.js",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/DrawAttentionItem/DrawAttentionItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/Draw_attention_item/DrawAttentionItem.module.sass",
+		"/C/OSPanel/domains/stroitel.loc/src/components/UslugaChapter/Draw_attention_item/Draw_attention_item.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/application/application_popup.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/application/application_submit_form.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/application/main.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/application/variables.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/roof/public/common_modules/main.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/window_popup/window_fade_popup.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/city_search_variants/popup/main.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/window_popup/close_window_after_click_outside.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/city_search_variants/popup/popup_get_city_region_name_with_geolocation.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/window_popup/window_popup.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/window_popup/open_close_popup.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/city_search_variants/popup/popup_union_cities_list.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/form/add_remove_blocks_with_copy/renumber_added_blocks.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/form/add_remove_blocks_with_copy/save_popup/add_wrapper_for_show.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/header_top_city_search/main.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/form/submit/js/offers/main.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/form/add_remove_blocks_with_copy/popup/popup_new.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/form/add_remove_blocks_with_copy/popup/popup_edit.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/form/submit/js/articles/articles_submit_form.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/form/submit/js/form_submit_js.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/foundation/window_popup/fade_window.js",
+		"/C/OSPanel/domains/smart_locks_node_js/resources/assets/js/my_js/step1/popup_window/main.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw_attention",
+			"amount",
+			"Popup_window",
+			"block_popup_window",
+			"modificator_outside_fade",
+			"Block"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"attentionTextList"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/ContentBlocks/Services/ServiceItem/ServiceItem.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/ContentBlocks/Services/Services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/ContentBlocks/Block1/Block1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/ContentBlocks/BlockEnd1/BlockEnd1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "components/ContentBlocks/Block2/Block2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "components/ContentBlocks/Services/services_data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3564,
+								3564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2024.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "my_sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 392.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
