@@ -1,24 +1,15 @@
-import React, {Component} from 'react'
-import classes from './Layout.module.sass'
-import Header from './Header/Header'
-import MainContent from './MainContent/MainContent'
+import React from 'react'
 
-class Layout extends Component {
+import Header from '../../components/Header/Header'
+import MainContent from '../MainContent'
+import Auxiliary from '../Services/Auxiliary'
 
-	render() {
+export default () =>
+	
+<Auxiliary>
+	<Header/>
+	<MainContent/>
+</Auxiliary>
 
-		return (
-			<div className= {classes.main_wrapper}>
-				<main className= {classes.main_content}>
-						
-					<Header/>
-					<MainContent/>	
-
-				</main>
-				<footer>footer</footer>	
-			</div>
-		)//return
-	}//render
-}//class
-
-export default Layout
+				
+	

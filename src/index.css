@@ -4,8 +4,6 @@ body {
 	font-family: 'Roboto Light',sans-serif,Arial,Tahoma,Verdana;
 	color: #000000;
 	line-height: 21px;
-	background: linear-gradient(to right, rgba(247, 243, 243, 0.8), rgba(247, 243, 243, 0.8)), url('/images/background.jpg');
-	background-size: 10%;
 }
 
 html {

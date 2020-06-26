@@ -1,17 +1,16 @@
-import React, {Component} from 'react'
+import React from 'react'
 import Layout from './hoc/Layout/Layout'
-import './App.sass'
+import {Provider} from 'react-redux'
+import rootReducer from './redux/rootReducer'
+import { createStore, applyMiddleware } from 'redux'
+import thunk from 'redux-thunk'
 import './reset.sass'
 
-class App extends Component {
-	
-	render(){	
-		return (
-			<Layout>
-			</Layout>	
-		)//return
-	}//render
-	
-}//class
+const store= createStore(rootReducer, applyMiddleware(thunk))
 
-export default App;
+export default () =>
+
+<Provider store= {store}>
+	<Layout/>
+</Provider>
+
