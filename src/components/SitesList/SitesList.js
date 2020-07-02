@@ -6,7 +6,7 @@ export default ({ sitesList })=>
 
 <ul className= {classes.SitesList}>
 {
-	sitesList.map((siteItem)=>{
+	sitesList.map( siteItem=>{
 		return(
 			<SiteItem
 				key= {siteItem.id}

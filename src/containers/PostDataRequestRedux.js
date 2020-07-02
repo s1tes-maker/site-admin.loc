@@ -15,8 +15,6 @@ class PostDataRequest extends Component {
 	render() {
 
 		const { error, loading, serverData, render } = this.props
-		
-		console.log('serverData', serverData)
 
 		if(error) {
 			
@@ -27,8 +25,10 @@ class PostDataRequest extends Component {
 			return <div>loading..</div>
 		}
 
-		if(serverData)  
-		  return render( serverData )
+		if(serverData) {
+			
+		  	return render( serverData )
+		} 
 		else return null
 	}	
 }
